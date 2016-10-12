@@ -1,0 +1,1 @@
+start ChildProcessExecutor.MasterProcess.exe -initParam=hello -runParam="world!" -taskFolder="..\..\..\TaskAssembly\bin\Debug" -executorFolder="..\..\..\ChildProcessExecutor\bin\Debug" -masterIP=127.0.0.1 -masterPort=9999 -remoteMachine=127.0.0.1 -remoteUser=username -remotePassword=password
